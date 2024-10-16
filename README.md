@@ -1,12 +1,15 @@
 # Simple autoscroller
 
 Simple program that scrolls wheel when mouse XButtons holded
+
 *why nobody done that before?*
 
 ## Usage
 
 Run `autoscroll.exe`
+
 Hold X1 button to scroll up
+
 Hold X2 button to scroll down
 
 ## Compiling
